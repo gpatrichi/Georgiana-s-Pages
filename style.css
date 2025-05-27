@@ -1,0 +1,16 @@
+body {
+  background-color: lavender;
+}
+
+p {
+	font-family: "Georgia", Arial, serif
+	  font-size: 35px;
+ 	 line-height: 30px;
+}
+
+h3 {text-decoration-line: underline; background-color:pink;
+}
+
+h1 {
+	text-shadow: 1px 1px red;
+}
